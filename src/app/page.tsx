@@ -36,7 +36,7 @@ export default function Page() {
             <Artpiece source={'/man.jpeg'} description='Roman colosseum circa 2AD'/>
             <Artpiece source={'/ninety.jpeg'} description='Roman colosseum circa 2AD'/>
             <Artpiece source={'/the-way-of-life.jpeg'} description='Roman colosseum circa 2AD'/>
-            <Artpiece source={'/the-colosseum.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece source={'/go.jpeg'} description='Roman colosseum circa 2AD'/>
 
           </div>
     </div>
