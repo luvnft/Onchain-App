@@ -34,7 +34,9 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className="flex items-center justify-center">
-        <OnchainProviders>{children}</OnchainProviders>
+        <OnchainProviders>
+          {children}
+        </OnchainProviders>
       </body>
     </html>
   );
