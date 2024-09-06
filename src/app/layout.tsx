@@ -19,7 +19,7 @@ export const viewport = {
 };
 
 export const metadata: Metadata = {
-  title: 'Onchain App Template',
+  title: 'Ibssa Onchain Art Institute',
   description: 'Built with OnchainKit',
   openGraph: {
     title: 'Onchain App Template',
