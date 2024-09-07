@@ -32,11 +32,11 @@ export default function Page() {
       <section>
         <div className="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
           <div className="grid grid-cols-1 gap-y-10 sm:grid-cols-2 gap-x-6 lg:grid-cols-3 xl:grid-cols-4 xl:gap-x-8">
-            <Artpiece source={'/the-colosseum.jpeg'} description='Roman colosseum circa 2AD'/>
-            <Artpiece source={'/man.jpeg'} description='Roman colosseum circa 2AD'/>
-            <Artpiece source={'/ninety.jpeg'} description='Roman colosseum circa 2AD'/>
-            <Artpiece source={'/the-way-of-life.jpeg'} description='Roman colosseum circa 2AD'/>
-            <Artpiece source={'/go.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece title='The Colosseum' source={'/the-colosseum.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece title='Man' source={'/man.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece title='90' source={'/ninety.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece title='The Way of Life' source={'/the-way-of-life.jpeg'} description='Roman colosseum circa 2AD'/>
+            <Artpiece title= 'Gogh!' source={'/go.jpeg'} description='Roman colosseum circa 2AD'/>
 
           </div>
     </div>
